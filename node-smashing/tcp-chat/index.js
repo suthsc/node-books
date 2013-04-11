@@ -3,10 +3,18 @@ var net = require("net");
 var count = 0,
 	users = {};
 
-var server = net.createServer(function(conn) {
+var server = net.createServer(function handleConnection(conn) {
 
 	// the nickname for the current connection
 	var nickname;
+
+	function broadcast(msg, exceptMyself) {
+		for (var i in users) {
+			if (!exceptMyself || i != nickname) {
+				users[i].write(msg);
+			}
+		}
+	}
 
 	// set the connection encoding
 	conn.setEncoding('utf8');
@@ -18,7 +26,8 @@ var server = net.createServer(function(conn) {
 		'\n > please write your name and press enter: ');
 	count++;
 
-	conn.on('data', function(data) {
+	conn.on('data', function onData(data) {
+
 		// remove new line and carriage return
 		data = data.replace('\r\n', '');
 
@@ -31,19 +40,23 @@ var server = net.createServer(function(conn) {
 				nickname = data;
 				users[nickname] = conn;
 
-				for (var i in users) {
-					users[i].write('\033[90m > ' + nickname + ' joined the room.\033[39m\n');
-				}
+				broadcast('\033[90m > ' + nickname + ' joined the room.\033[39m\n');
+
 			}
+		} else {
+			// otherwise you consider it a chat message
+			broadcast('\033[96m > ' + nickname + ':\033[39m ' + data + '\n');
 		}
 
 		console.log(data);
 	});
-	conn.on('close', function() {
+	conn.on('close', function onClose() {
 		count--;
+		delete users[nickname];
+		broadcast('\033[90m > ' + nickname + ' left the room.\033[39m\n');
 	});
 });
 
-server.listen(3000, function() {
+server.listen(3000, function startServer() {
 	console.log('\033[96m	server listening on *:3000\033[39m');
 });
