@@ -1,9 +1,6 @@
 require('http').createServer(function onRequest(req, res) {
-	res.writeHead(200, {'Content-Type': 'text/html'});
-	res.write('Hello');
+	res.writeHead(200, {'Content-Type': 'image/jpg'});
 
-	setTimeout(function onTimeout() {
-		res.end(' <b>World!</b>');
-	});
+	var stream = require('fs').createReadStream('image.jpg').pipe(res);
 
 }).listen(3000);
