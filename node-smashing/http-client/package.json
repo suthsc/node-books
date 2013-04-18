@@ -1,5 +1,8 @@
 {
 	"name": "http-client",
 	"description": "A command line twitter client.",
-	"version": "0.0.1"
+	"version": "0.0.1",
+	"dependencies": {
+		"superagent": "0.3.x"
+	}
 }
