@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"limited",
+				"limited_access_token"
+			],
+			[
+				"shirtStuff",
+				"shirtStuffDiv"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"console",
+				"console.error();"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"rq",
+				"require"
+			],
+			[
+				"cu",
+				"cube"
+			],
+			[
+				"for",
+				"FORM	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"err",
+				"errorThrown"
+			],
+			[
+				"transform",
+				"Transform"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"X",
+				"XSLTProcessor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"link",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"debug",
+				"Nodejs::Debug::Run::Current File"
+			],
+			[
+				"node",
+				"Nodejs::Run::Current File"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"coffee",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"post",
+				"Snippet: $.post"
+			],
+			[
+				"snipp",
+				"Snippet: click"
+			],
+			[
+				"each",
+				"Snippet: each"
+			],
+			[
+				"snippet",
+				"Snippet: ajax"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/src/p/node-books/simple-ping/package.json",
+		"/C/src/p/node-books/simple-ping/index.js",
+		"/C/src/p/node-books/simple-ping/node_modules/superagent/lib/node/index.js",
+		"/C/src/p/node-books/node-smashing/irc-client/index.js",
+		"/C/src/p/requirejs/main.js",
+		"/C/src/ssutherland/minicart-demo/src/main/webapp/js/dr/drapi-amd.js",
+		"/C/src/p/requirejs.sublime-project",
+		"/C/src/ssutherland/minicart-demo/src/main/webapp/index.html",
+		"/C/src/p/requirejs/lib/shirt.js",
+		"/C/src/p/requirejs/lib/drapi.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/index.htm",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/appConfig.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/main.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/runtime/App.js",
+		"/C/src/ssutherland/minicart-demo/.gitignore",
+		"/C/apps/gradle-1.3/bin/gradle.bat",
+		"/C/apps/gradle-1.3/samples/java/apiAndImpl/build.gradle",
+		"/C/apps/gradle-1.3/samples/announce/build.gradle",
+		"/C/src/ssutherland/minicart-demo/minicart-demo.iml",
+		"/C/src/DRConnectHTMLRefArch/api-library/target/drapi.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/src/service/CartService.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/src/service/BaseService.js",
+		"/C/src/DRConnectHTMLRefArch/config-app/index.html",
+		"/C/src/DRConnectHTMLRefArch/api-library/target/drapi.amd.min.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/libs/require-jquery.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/libs/q.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/libs/jquery.min.js",
+		"/C/src/ssutherland/jquery-require-sample/webapp/scripts/main.js",
+		"/C/src/DRConnectHTMLRefArch/config-app/js/require-jquery.js",
+		"/C/Users/SSUTHE~1/AppData/Local/Temp/7zE6FE1.tmp/require-jquery.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/src/Api.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/src/AsyncRequester.js",
+		"/C/src/p/node/AnotherFile.js",
+		"/C/src/p/node/xmlparse.js",
+		"/C/Users/ssutherland/Documents/maven-command-orders.txt",
+		"/C/dev/mainline/modules/runtime/bin/tomcat.log",
+		"/C/src/minicart/DemoStore_files/store(1)",
+		"/C/src/minicart/DemoStore_files/store",
+		"/C/src/p/node/node_modules/xml2js/src/xml2js.coffee",
+		"/C/Users/ssutherland/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/src/p/node/npm-debug.log",
+		"/C/src/DRConnectHTMLRefArch/api-library/src/connection/Session.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/target/drapi.amd.noq.min.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/target/drapi.min.js",
+		"/C/src/DRConnectHTMLRefArch/config-app/js/drapi.amd.noq.min.js",
+		"/C/src/DRConnectHTMLRefArch/config-app/target/js/main.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/libs/drapi.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/controller/BaseController.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/controller/CheckoutController.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/controller/MainApplicationController.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/runtime/BaseDispatcher.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/runtime/UrlNavigationManager.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/service/CategoryService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/service/OrderService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/service/ProductService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/service/ShoppingCartService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/BaseView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/HeaderView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/ItemRenderer.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/MainLayoutView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/ShoppingCartLineItemRenderer.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/ShoppingCartView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/libs/drapi.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/controller/BaseController.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/controller/CheckoutController.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/controller/MainApplicationController.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/runtime/BaseDispatcher.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/runtime/UrlNavigationManager.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/service/CategoryService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/service/OrderService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/service/ProductService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/service/ShoppingCartService.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/view/BaseView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/view/HeaderView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/view/ItemRenderer.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/view/MainLayoutView.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/view/ShoppingCartLineItemRenderer.js",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/target/src/view/ShoppingCartView.js",
+		"/C/src/DRConnectHTMLRefArch/build/build.xml",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/css/dr-theme.css",
+		"/C/src/DRConnectHTMLRefArch/config-app/css/bootstrap-responsive.css",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/css/bootstrap-responsive.css",
+		"/C/src/DRConnectHTMLRefArch/build/default.properties",
+		"/C/src/DRConnectHTMLRefArch/build/support/WEB-INF/web.xml",
+		"/C/src/DRConnectHTMLRefArch/build/tools/r.js",
+		"/C/tmp/simple.coffee",
+		"/C/tmp/Cakefile",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/util/StoreAcmeUtil.js",
+		"/C/src/DRConnectHTMLRefArch/api-library/src/drapi.js",
+		"/C/tmp/simple.js",
+		"/C/Oracle/Administrator/product/11.2.0/client_1/network/admin/tnsnames.ora",
+		"/C/src/DRConnectHTMLRefArch/storefront-app/src/view/ApiAdminView.js",
+		"/C/apps/ASF/apache-tomcat-7.0.32/webapps/ROOT/WEB-INF/web.xml",
+		"/C/apps/ASF/apache-tomcat-7.0.32/webapps/ROOT/sample.js",
+		"/C/apps/ASF/apache-tomcat-7.0.32/webapps/ROOT/sample.html",
+		"/C/src/minicart/MiniCart.SCS.jQuery.JSON-1.5.js",
+		"/C/src/minicart/jquery.parse.transform.js",
+		"/C/src/minicart/ShoppingCartService.jQuery.JSON-1.2.js",
+		"/C/src/minicart/sample.js",
+		"/C/src/minicart/sample.html",
+		"/C/Users/ssutherland/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ssutherland/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/ssutherland/Documents/minicart.js",
+		"/C/dev/mainline/modules/runtime/bin/start-tomcat.sh",
+		"/C/dev/mainline/ssutherland.properties",
+		"/C/Users/ssutherland/Downloads/global_commerce_mainline.psf",
+		"/C/dev/mainline/modules/pacific-parent/bin/maven-3.0.3/conf/settings.xml",
+		"/C/apps/eclipse/eclipse-3.7/eclipse.ini",
+		"/C/dev/mainline/modules/pacific-admin-view/CVS/Root",
+		"/C/apps/Oracle/NetBeans-7.3-Beta2/etc/netbeans.conf",
+		"/C/apps/MyEclipse/MyEclipse-for-Spring/MyEclipse for Spring 10/myeclipseforspring.ini",
+		"/C/apps/eclipse/eclipse/eclipse.ini",
+		"/C/apps/Oracle/NetBeans-7.3-Beta2/netbeans.css",
+		"/C/apps/Oracle/NetBeans-7.3-Beta2/bin/netbeans",
+		"/C/apps/springsource/STS/sts-3.1.0.RELEASE/STS.ini"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.",
+			"console.debug(",
+			"<script",
+			");\n",
+			"xmlshim",
+			"context",
+			"deploying",
+			"console.debug(",
+			"templateName",
+			"product_price",
+			"product_name",
+			"require",
+			"^[a-z]{3}dev01",
+			"$[a-z]{3}dev01",
+			"$*+dev01",
+			"dev01",
+			"function define",
+			"function namespace",
+			"ajaxifyAddToCartLinks",
+			"dev01"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"console.log(",
+			"console.log"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 187.0
+	},
+	"output.git":
+	{
+		"height": 206.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.js",
+				"DRConnectHTMLRefArch/storefront-app/src/runtime/App.js"
+			],
+			[
+				"drapi",
+				"api-library/target/drapi.js"
+			],
+			[
+				"dr-theme",
+				"storefront-app/css/dr-theme.css"
+			],
+			[
+				"bootst",
+				"storefront-app/css/bootstrap-responsive.css"
+			],
+			[
+				"bootstra",
+				"config-app/css/bootstrap-responsive.css"
+			],
+			[
+				"dr-",
+				"storefront-app/css/dr-theme.css"
+			],
+			[
+				"boot",
+				"config-app/css/bootstrap-responsive.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/dev/main-eclipse-projects.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

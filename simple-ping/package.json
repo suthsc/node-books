@@ -1,0 +1,8 @@
+{
+    "name": "service-ping",
+    "version": "0.0.1",
+    "description": "A simple service request process. A HTTP response code of 200 is considered success."
+    "dependencies": {
+        "superagent": "0.3.x"
+    }
+}
